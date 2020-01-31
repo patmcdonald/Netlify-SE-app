@@ -8,6 +8,8 @@ date: 2020-01-30T13:20:02.367Z
 tags:
   - Netlify SE
 ---
-I've been reading some posts from Phil Hawksworth, developer advocate at Netlify.
+When I read about SSG's at present, [Gatsby](https://www.gatsbyjs.org/)  is the king, but I wanted to look at alternatives. I'd previously used [Hugo](https://gohugo.io/) and enjoyed the steep learning curve, but I wanted to keep things simple this time around.
 
-Phil has been pretty impressed with
+I've been reading some posts from Phil Hawksworth, developer advocate at Netlify, and he's been pretty impressed with [Eleventy](https://www.11ty.dev/) as a simple, no frills static site generator. I did a little research and found [Hylia](https://hylia.website/), a version of Eleventy with [NelifyCMS](https://www.netlifycms.org/) preconfigured. I was impressed by its accessiblity for new users of SSG's, so I took a "beginners mind" approach and deployed it to Netlify from the GitHub repo. I also took the opportunity to dive into using NetlifyCMS.
+
+I setup my repo and also cloned it locally, keeping that up to date with `git pull`.
