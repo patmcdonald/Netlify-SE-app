@@ -8,4 +8,6 @@ date: 2020-01-30T13:20:02.367Z
 tags:
   - Netlify SE
 ---
-text here!
+I've been reading some posts from Phil Hawksworth, developer advocate at Netlify.
+
+Phil has been pretty impressed with
