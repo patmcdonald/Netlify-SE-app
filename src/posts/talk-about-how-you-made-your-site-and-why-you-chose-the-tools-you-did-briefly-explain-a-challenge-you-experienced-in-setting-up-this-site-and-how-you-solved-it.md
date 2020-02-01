@@ -4,7 +4,7 @@ title: >-
   4. Talk about how you made your site and why you chose the tools you did. 
   Briefly explain a challenge you experienced in setting up this site and how
   you solved it.
-date: 2020-01-30T13:20:02.367Z
+date: 2020-02-01T00:00:00.000Z
 tags:
   - Netlify SE
 ---
