@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: What is your favorite thing about providing technical support?
+title: 2. What is your favorite thing about providing technical support?
 date: 2020-01-30T13:15:52.022Z
 tags:
   - Netlify SE
