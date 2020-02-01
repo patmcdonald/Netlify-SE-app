@@ -5,7 +5,7 @@ title: >-
   either some constructive criticism or some points that impressed you.  Be
   honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and
   provide some constructive criticism ;)
-date: 2020-01-30T13:18:04.591Z
+date: 2020-02-01T00:03:00.000Z
 tags:
   - Netlify SE
 ---
