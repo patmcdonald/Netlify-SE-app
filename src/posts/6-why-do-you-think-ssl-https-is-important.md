@@ -5,4 +5,4 @@ date: 2020-02-01T00:06:00.000Z
 tags:
   - Netlify SE
 ---
-Text here!
+<https://docs.netlify.com/domains-https/https-ssl/>
