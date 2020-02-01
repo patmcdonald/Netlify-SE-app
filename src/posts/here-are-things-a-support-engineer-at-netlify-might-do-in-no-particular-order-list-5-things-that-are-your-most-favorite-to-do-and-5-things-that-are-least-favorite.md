@@ -1,9 +1,8 @@
 ---
 layout: layouts/post.njk
 title: >-
-  Here are things a support engineer at Netlify might do in no particular order.
-  List 5 things that are your most favorite to do and 5 things that are least
-  favorite.
+  Rank your 5 favorite, and 5 least favorite, activities from this list:
+  https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
 date: 2020-01-30T13:12:21.776Z
 tags:
   - Netlify SE
