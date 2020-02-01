@@ -9,7 +9,7 @@ tags:
 ---
 Hi Chris. 
 
-I've taken a fresh look at this list after our conversation, and made my choices in light of that. I've listed them in no particular order, and there's activities that I'd really enjoy off the list too. These would include working with the development team, bug reports and debugging, and recruiting new Support teammates.
+I've taken a fresh look at this list after our conversation, and made my choices in light of that. I've listed them in no particular order, and there's activities that I'd really enjoy off the list too. These would include working with the development team, bug reports and debugging, and recruiting new Support teammates. Delivering a talk to people I don't know is something I'd like to do in the near future too.
 
 ### My 5 favourite activities from this list are:
 
@@ -23,6 +23,6 @@ I've taken a fresh look at this list after our conversation, and made my choices
 
 * Receive occasional phone calls requesting support from our highest-value customers
 * Engage multiple users at once via chat to answer their questions and troubleshoot problems
-* Deliver a talk to many people you don't know at a conference or meetup
+* Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub
 * Manage a Support team 
 * Respond to Netlify customers on Twitter
