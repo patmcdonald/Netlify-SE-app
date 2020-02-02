@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: >-
-  3. What did you think of our service during the time you used it?  Provide
+  3. What I think of Netlify.  Provide
   either some constructive criticism or some points that impressed you.  Be
   honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and
   provide some constructive criticism ;)
